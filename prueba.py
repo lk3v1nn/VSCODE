@@ -1,0 +1,7 @@
+p = int(input())
+print(type(p))
+print("Puta")
+print("hola")
+print("hola")
+print("hola")   
+print("hola")
